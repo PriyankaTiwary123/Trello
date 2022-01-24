@@ -3,9 +3,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
   ## Steps (How to run the Project in local)
   1. git clone https://github.com/PriyankaTiwary123/Trello.git
-  2. cd trello-clone
-  3. `npm i`
-  4. `npm start`
+  2. cd Trello
+  3. git checkout main
+  4. `npm i`
+  5. `npm start`
 
 
 Runs the app in the development mode.\
