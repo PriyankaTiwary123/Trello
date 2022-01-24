@@ -14,14 +14,21 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-## Features included Trello Board
+## Features included Trello Board.
  1. Adding List/Column.
  2. Labeling List/Column.
  3. Adding Another List/Column.
- 4. adding Cards/tasks to list.
+ 4. Adding Cards/tasks to list.
  5. Editing Task/Cards.
- 6. deleting Task/Cards.
- 7. moving cards/tasks to adjacent column.
+ 6. Deleting Task/Cards.
+ 7. Moving cards/tasks to adjacent column.
+
+## Features to be included before releasing to Production.
+1. Drag and Drop functionality for cards within list and across lists.
+2. Showing details of task on modal popup when clicked on card.
+3. Creating multiple workspace.
+ 
+
 
 
 
