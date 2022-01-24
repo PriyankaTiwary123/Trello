@@ -14,14 +14,14 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-Features included Trello Board:
----Adding List/Column.
----Labeling List/Column.
----Adding Another List/Column.
----adding Cards/tasks to list.
----Editing Task/Cards.
----deleting Task/Cards.
----moving cards/tasks to adjacent column.
+## Features included Trello Board
+ 1. Adding List/Column.
+ 2. Labeling List/Column.
+ 3. Adding Another List/Column.
+ 4. adding Cards/tasks to list.
+ 5. Editing Task/Cards.
+ 6. deleting Task/Cards.
+ 7. moving cards/tasks to adjacent column.
 
 
 
