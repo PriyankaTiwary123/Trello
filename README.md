@@ -1,7 +1,7 @@
 # Project Details
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-  ## Steps (How to run the Project in local)
+  ## Steps to run the application in local.
   1. git clone https://github.com/PriyankaTiwary123/Trello.git
   2. cd Trello
   3. git checkout main
