@@ -14,7 +14,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-## Features included Trello Board.
+## Features included in Trello Board.
  1. Adding List/Column.
  2. Labeling List/Column.
  3. Adding Another List/Column.
